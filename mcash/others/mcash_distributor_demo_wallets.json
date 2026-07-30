@@ -1,0 +1,13 @@
+{
+    "code" : "0",
+    "wallets": [
+        {
+            "wallet" : "01711223344",
+            "name" : "Syed Kamran Ahmed",
+            "pin" : "9999",
+            "balance" : 10.00,
+            "parent" : "01234567123",
+            "cbs" : "2050*********2706"
+        }
+    ]
+}
