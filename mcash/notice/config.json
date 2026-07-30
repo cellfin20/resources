@@ -1,7 +1,7 @@
 {
   "imageUrl": "https://raw.githubusercontent.com/cellfin20/resources/main/cellfin/notice/notice_02.jpeg",
   "active": true,
-  "dailyOnce": true,
+  "dailyOnce": false,
   "showFrequency": 0.5,
   "headerTitleEn": "Stay Safe from Fraud",
   "headerTitleBn": "প্রতারণা থেকে সতর্ক থাকুন",
