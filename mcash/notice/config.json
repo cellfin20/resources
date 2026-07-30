@@ -1,5 +1,6 @@
 {
     "imageUrl": "https://raw.githubusercontent.com/cellfin20/resources/main/mcash/misc/bangla_qr_banner.png",
+    "active": false,
     "dailyOnce": false,
     "showFrequency": 0.9,
     "headerTitleEn":"Some Texts Here",
