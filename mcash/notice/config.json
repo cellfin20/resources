@@ -1,1 +1,12 @@
-
+{
+    "imageUrl": "https://raw.githubusercontent.com/cellfin20/resources/main/mcash/misc/bangla_qr_banner.png",
+    "dailyOnce": false,
+    "showFrequency": 0.9,
+    "headerTitleEn":"Some Texts Here",
+    "headerTitleBn":"এখানে কিছু লেখা",
+    "descriptionEn":"Lorem Ipsum Dolor Set",
+    "descriptionBn":"লরেম ইপসাম ডলর সেট",
+    "buttonLink": "https://www.islamibankbd.com",
+    "buttonTitleEn": "Learn More",
+    "buttonTitleBn": "বিস্তারিত জানুন"
+}
