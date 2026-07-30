@@ -2,7 +2,7 @@
   "imageUrl": "https://raw.githubusercontent.com/cellfin20/resources/main/cellfin/notice/notice_02.jpeg",
   "active": true,
   "dailyOnce": true,
-  "showFrequency": 1.0,
+  "showFrequency": 0.5,
   "headerTitleEn": "Stay Safe from Fraud",
   "headerTitleBn": "প্রতারণা থেকে সতর্ক থাকুন",
   "descriptionEn": "Never share your PIN, OTP, Card CVV, or Password with anyone. Islami Bank will never ask for these confidential details.",
