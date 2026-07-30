@@ -1,13 +1,13 @@
 {
-    "imageUrl": "https://raw.githubusercontent.com/cellfin20/resources/main/mcash/misc/bangla_qr_banner.png",
-    "active": true,
-    "dailyOnce": false,
-    "showFrequency": 0.9,
-    "headerTitleEn":"Some Texts Here",
-    "headerTitleBn":"এখানে কিছু লেখা",
-    "descriptionEn":"Lorem Ipsum Dolor Set",
-    "descriptionBn":"লরেম ইপসাম ডলর সেট",
-    "buttonLink": "https://www.islamibankbd.com",
-    "buttonTitleEn": "Learn More",
-    "buttonTitleBn": "বিস্তারিত জানুন"
+  "imageUrl": "https://raw.githubusercontent.com/cellfin20/resources/main/cellfin/notice/notice_02.jpeg",
+  "active": true,
+  "dailyOnce": true,
+  "showFrequency": 1.0,
+  "headerTitleEn": "Stay Safe from Fraud",
+  "headerTitleBn": "প্রতারণা থেকে সতর্ক থাকুন",
+  "descriptionEn": "Never share your PIN, OTP, Card CVV, or Password with anyone. Islami Bank will never ask for these confidential details.",
+  "descriptionBn": "কখনোই আপনার PIN, OTP, কার্ডের CVV বা পাসওয়ার্ড কারও সাথে শেয়ার করবেন না। ইসলামী ব্যাংক কখনো এসব গোপন তথ্য চায় না।",
+  "buttonLink": "https://www.islamibankbd.com",
+  "buttonTitleEn": "Learn More",
+  "buttonTitleBn": "বিস্তারিত জানুন"
 }
