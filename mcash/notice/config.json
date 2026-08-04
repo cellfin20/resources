@@ -5,9 +5,9 @@
   "showFrequency": 0.5,
   "headerTitleEn": "Stay Safe from Fraud",
   "headerTitleBn": "প্রতারণা থেকে সতর্ক থাকুন",
-  "descriptionEn": "",
-  "descriptionBn": "",
+  "descriptionEn": null,
+  "descriptionBn": null,
   "buttonLink": "",
-  "buttonTitleEn": "",
-  "buttonTitleBn": ""
+  "buttonTitleEn": "Alright",
+  "buttonTitleBn": "বুঝেছি"
 }
