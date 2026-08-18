@@ -1,0 +1,12 @@
+{
+    "code" : "0",
+    "wallets": [
+        {
+            "wallet" : "017000000001",
+            "name" : "Mohammad Ibrahim",
+            "pin" : "9999",
+            "balance" : 120.26,
+            "cbs" : "2050*********2706"
+        }
+    ]
+}
