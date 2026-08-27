@@ -1,13 +1,13 @@
 {
-  "imageUrl": "https://raw.githubusercontent.com/cellfin20/resources/main/mcash/notice/security.jpg",
+  "imageUrl": "https://raw.githubusercontent.com/cellfin20/resources/main/mcash/notice/bangla_qr_smartphone.jpg",
   "active": true,
   "dailyOnce": false,
-  "showFrequency": 0.5,
-  "headerTitleEn": "Stay Safe from Fraud",
-  "headerTitleBn": "প্রতারণা থেকে সতর্ক থাকুন",
+  "showFrequency": 0.7,
+  "headerTitleEn": "Offer on Bangla QR Payment",
+  "headerTitleBn": "বাংলা QR পেমেন্টে অফার",
   "descriptionEn": null,
   "descriptionBn": null,
-  "buttonLink": null,
-  "buttonTitleEn": null,
-  "buttonTitleBn": null
+  "buttonLink": "https://www.islamibankbd.com/public/assets/card/offers/sub/1787546243_Bangla%20QR%20campaign%20FAQ.pdf",
+  "buttonTitleEn": "Learn More",
+  "buttonTitleBn": "বিস্তারিত জানুন"
 }
