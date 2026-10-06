@@ -2,7 +2,7 @@
   "imageUrl": "https://raw.githubusercontent.com/cellfin20/resources/main/mcash/notice/bangla_qr_smartphone.jpg",
   "active": true,
   "dailyOnce": false,
-  "showFrequency": 0.7,
+  "showFrequency": 0.2,
   "headerTitleEn": "Offer on Bangla QR Payment",
   "headerTitleBn": "বাংলা QR পেমেন্টে অফার",
   "descriptionEn": null,
